@@ -1,4 +1,9 @@
-# Projet R Shiny : Climate Change
+<div align="center">
+  
+  # Projet R Shiny : Climate Change
+  
+</div>
+
 Cette application web avec Shiny a été crée dans le cadre d'un projet du module de *Visualisation sous R* dispensé en Master 1 Mathématiques Appliquées, Statistiques à l'Université de Rennes 2. <br>
 Nous avons fait le choix de mettre son contenu en anglais.
 
