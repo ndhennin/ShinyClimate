@@ -64,7 +64,7 @@ Pour les deux autres graphiques en haut, représentant les émissions de CO2 et 
 
 ### Comparaison
 
-Cette section nous permet de comparer deux ou plusieurs pays, ce qui permet de comparer les progrès en matière de réduction des émissions. Nous fournissons de nombreuses comparaisons telles que les types de CO2 et les sources de GES. Le choix des inputs est similaire à ceux de la sous-partie *CO2 and GHG* afin de comparer les émissions entre pays.
+Cette section nous permet de comparer deux ou plusieurs pays, ce qui permet d'observer leurs progrès ou non en matière de réduction des émissions. Nous fournissons de nombreuses comparaisons telles que les types de CO2 et les sources de GES. Le choix des inputs est similaire à ceux de la sous-partie *CO2 and GHG* afin de comparer les émissions entre pays.
 
 <div align="center">
 <img src="IMAGES/comparison1.PNG" style="min-height:'250px'"/>
@@ -86,8 +86,8 @@ Cette table représente les données annuelles des émissions de gaz à effet de
 ## Conclusion
 
 L'application fournit une vue complète des origines des gaz à effet de serre par pays suivant les années. Tous les gaz provenant du comportement humain sont enregistrés, par exemple la combustion du charbon, du ciment, la combustion des terres ou des forêts, le gaz industriel, etc.
-Nous nous rendons compte que, même si nous nous rappelons toujours le réchauffement climatique, nos efforts n'ont pas vraiment été efficaces. La tendance des émissions est toujours à la hausse depuis les années 1990 (du monde), il y a un point positif car depuis 2010 environ, la croissance n'est pas aussi forte qu'avant, le graphique à ce stade ressemble presque à une ligne horizontale stable.
-Plus en détail, alors que quelques pays émettent encore de plus en plus de gaz, il y en a certains qui ont fait un excellent travail en matière de protection de l'environnement comme la France, l'Allemagne, l'Italie ou encore le Japon dont les mesures pour limiter les émissions ont eu des résultats évidents.
+Nous nous rendons compte que la tendance des émissions dans le monde est toujours à la hausse depuis les années 1990. Cependant, il y a un point positif car depuis 2010 environ, la croissance n'est pas aussi forte qu'avant (le graphique à ce stade ressemble presque à une ligne horizontale stable).
+Plus en détail, alors que quelques pays émettent encore de plus en plus de gaz, certains ont fait un excellent travail en matière de protection de l'environnement comme la France, l'Allemagne, l'Italie ou encore le Japon dont les mesures pour limiter les émissions ont eu des résultats évidents.
 
 ## Auteurs de l'application
 
