@@ -13,7 +13,7 @@ Nous avons fait le choix de mettre son contenu en anglais.
 <div align="center">
 <img src="https://youmatter.world/app/uploads/sites/2/2019/05/greenhouse-co2-climate.jpg" width="45%" style="min-height:'250px'"/>
 </div>
-Il est important que nous comprenions comment le climat change. Les gaz à effet de serre (GES) sont responsables du réchauffement climatique, qui affecte déjà notre monde aujourd'hui, un certain nombre d'espèces de plantes et d'animaux ont disparu et de plus en plus de personnes souffrent de climats extrêmes et de catastrophes naturelles.
+Aujourd'hui, il est nécessaire de comprendre comment le climat est en train de se transformer et des répercussions qu'il peut engendrer. Les gaz à effet de serre (GES) sont responsables du réchauffement climatique et affectent déjà notre monde actuel.
 Conscients que ce problème est très urgent et important, nous avons construit l'application R Shiny pour visualiser les émissions causées par l'Homme, permettant ainsi d'évaluer le processus de limitation des gaz à effet de serre de chaque nation.
 
 ## Onglets de l’application R Shiny
